@@ -13,15 +13,12 @@ Reference
 Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). Molecular Biology of the Cell (6th ed.). Garland Science.
 
 Anjum, A., Jaggi, S., Varghese, E., Lall, S., Bhowmik, A., & Rai, A. (2016). Identification of Differentially Expressed Genes in RNA-seq 
-Data of Arabidopsis thaliana: A Compound Distribution Approach. Journal of computational biology : a journal of computational molecular cell biology, 23(4), 239–247. https://doi.org/10.1089/cmb.2015.0205
+Data of Arabidopsis thaliana: A Compound Distribution Approach. Journal of computational biology: a journal of computational molecular cell biology, 23(4), 239–247. https://doi.org/10.1089/cmb.2015.0205
 
 Bloom J.S., Khan Z., Kruglyak L., et al.. 2009. Measuring differential gene expression by short read sequencing: Quantitative comparison to 2-channel gene expression microarrays. BMC Genomics 10, 221.
 
 OpenAI. (2024). Essay on differential expression: Downregulation and upregulation. Retrieved from https://chat.openai.com
 
-Regulation of gene expression. (2024, June 28). In Wikipedia. https://en.wikipedia.org/wiki/Regulation_of_gene_expression
-
-Rosenfeld, C. (2022, August 19) Upregulation & Downregulation in Gene Expression. Study.com. https://study.com/academy/lesson/upregulation-downregulation-in-gene-expression.html
 
 
 
